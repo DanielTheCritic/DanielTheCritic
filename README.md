@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanielTheCritic
+- 👀 I’m interested in writing code and playing games.
+- 🌱 I’m currently learning Python, machine learning and game development.
